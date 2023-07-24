@@ -1,2 +1,2 @@
-# interpreter
-Information relating to interpretation of JVM bytecode.
+# 🧠 Interpreter
+Learn the powerful interpreter behind JVM bytecode.
