@@ -1,2 +1,2 @@
-# interpeter
-The repository of information relating to interpreting the JVM’s bytecode.
+# interpreter
+Information relating to interpretation of JVM bytecode.
